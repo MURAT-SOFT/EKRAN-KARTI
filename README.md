@@ -4,3 +4,5 @@ MASAÜSTÜ PC EKRAN KART SİSTEM ŞEMALARI:
 3.RX580 AMD EKRAN KARTI
 4.RTX3070 8GIGABYTE ASUS
 ------------------------------------
+EKRAN KART TESTİ LİNK:
+https://yandex.ru/video/preview/4919733713736863212
